@@ -1,4 +1,4 @@
-# 🌍 NASA Space Apps Challenge 2022 — [Insira o Nome do Seu Projeto Aqui]
+# 🌍 NASA Space Apps Challenge 2025 — [Insira o Nome do Seu Projeto Aqui]
 
 ## 🚀 Sobre o Projeto
 Este repositório contém a solução desenvolvida durante o **NASA Space Apps Challenge 2022**, o maior hackathon global do planeta. Diante de desafios reais propostos por agências aeroespaciais (incluindo a NASA), nossa equipe projetou e implementou uma aplicação focada em transformar dados complexos e abertos em uma solução interativa, escalável e de alto impacto para a sociedade.
