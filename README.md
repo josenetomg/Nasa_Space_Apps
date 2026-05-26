@@ -4,9 +4,16 @@
 
 Seja você estudante, profissional, tecnólogo, engenheiro ou artista, o NASA International Space Apps Challenge oferece oportunidades para qualquer pessoa com interesse em espaço e ciência por meio de nossa maratona de programação e comunidade global. Todas as idades, níveis de habilidade e formações profissionais são bem-vindas. No NASA Space Apps, sempre há espaço para mais um!
 
-### Desafios do mundo real
+### 💡 Desafios do mundo real
 O Desafio de Aplicativos Espaciais da NASA oferece a oportunidade de interagir diretamente com os dados da NASA, juntamente com os dados de parceiros da Agência Espacial. Durante o hackathon, as equipes usam esses dados para resolver desafios elaborados por especialistas da NASA, abordando temas como narrativa, desenvolvimento de software, astrofísica, exploração espacial, agricultura e muito mais.
-### Instagram
+
+### 🛠️ Conheça pessoas com interesses semelhantes.
+Ao participar do NASA Space Apps, você se junta a uma comunidade global que compartilha o desejo de aprender e o interesse em explorar nosso planeta e universo por meio da ciência e da tecnologia.
+
+## 🎯 Ganhadores do evente 2025
+https://www.spaceappschallenge.org/2025/meet-the-2025-global-winners/
+
+### 🌍 Instagram
 https://www.instagram.com/nasa_spaceapps/
 ### Album anos anteriores
 https://visitstore.bio/nasaspaceapps
