@@ -11,13 +11,17 @@ O Desafio de Aplicativos Espaciais da NASA oferece a oportunidade de interagir d
 Ao participar do NASA Space Apps, você se junta a uma comunidade global que compartilha o desejo de aprender e o interesse em explorar nosso planeta e universo por meio da ciência e da tecnologia.
 
 ## 🎯 Ganhadores do evento 2025
+Todos os anos, milhares de equipes submetem projetos que demonstram colaboração, criatividade e abordam desafios que enfrentamos na Terra e no espaço, utilizando dados da NASA. Esses projetos passam por diversas rodadas de avaliação para determinar os 10 Vencedores Globais, que representam os projetos mais inovadores submetidos pelos participantes.
+
 https://www.spaceappschallenge.org/2025/meet-the-2025-global-winners/
 
+---
 ### 🌍 Instagram
 https://www.instagram.com/nasa_spaceapps/
 ### Album anos anteriores
 https://visitstore.bio/nasaspaceapps
 
+---
 ## 🚀 Sobre o Projeto
 Este repositório contém varias soluçoes desenvolvidas durante o **NASA Space Apps **, o maior hackathon global do planeta. Diante de desafios reais propostos por agências aeroespaciais (incluindo a NASA), nossa equipe projetou e implementou uma aplicação focada em transformar dados complexos e abertos em uma solução interativa, escalável e de alto impacto para a sociedade.
 
