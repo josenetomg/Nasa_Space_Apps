@@ -10,7 +10,7 @@ O Desafio de Aplicativos Espaciais da NASA oferece a oportunidade de interagir d
 ### 🛠️ Conheça pessoas com interesses semelhantes.
 Ao participar do NASA Space Apps, você se junta a uma comunidade global que compartilha o desejo de aprender e o interesse em explorar nosso planeta e universo por meio da ciência e da tecnologia.
 
-## 🎯 Ganhadores do evente 2025
+## 🎯 Ganhadores do evento 2025
 https://www.spaceappschallenge.org/2025/meet-the-2025-global-winners/
 
 ### 🌍 Instagram
